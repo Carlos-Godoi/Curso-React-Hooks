@@ -5,7 +5,8 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 // import Exemplo01 from './hooks/Exemplo01_useState';
 // import Exemplo02 from './hooks/Exemplo02_useState';
-import Exemplo03 from './hooks/Exemplo03_useState';
+// import Exemplo03 from './hooks/Exemplo03_useState';
+import Exemplo04 from './hooks/Exemplo04_useState';
 
 
 const root = ReactDOM.createRoot(
@@ -14,7 +15,7 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <Exemplo03 />
+    <Exemplo04 />
   </React.StrictMode>
 );
 
