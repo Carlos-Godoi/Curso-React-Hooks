@@ -10,7 +10,8 @@ import reportWebVitals from './reportWebVitals';
 // import Exemplo05 from './hooks/Exemplo05_useEffect';
 // import Exemplo06 from './hooks/Exemplo06_useEffect'
 // import Exemplo07 from './hooks/Exemplo07_useContext';
-import Exemplo08 from './hooks/Exemplo08_useContext';
+// import Exemplo08 from './hooks/Exemplo08_useContext';
+import Exemplo09 from './hooks/Exemplo09_useRef';
 
 
 const root = ReactDOM.createRoot(
@@ -19,7 +20,7 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <Exemplo08 />
+    <Exemplo09 />
   </React.StrictMode>
 );
 
